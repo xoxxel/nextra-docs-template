@@ -1,11 +1,37 @@
-# Introduction
- 
-Welcome to Nextra! This is a basic docs template. You can use it as a starting point for your own project :)
+import styles from '../components/landing.module.css'
 
-## What is Nextra?
-
-A **simple**, **powerful** and **flexible** site generation framework with everything you love from Next.js.
-
-## Documentation
-
-The documentation is available at [https://nextra.site](https://nextra.site).
+export default function LandingPage() {
+  return (
+    <div className={styles.container}>
+      <div className={styles.hero}>
+        <h1 className={styles.title}>BrowserLess</h1>
+        <p className={styles.subtitle}>
+          استخراج و اتوماسیون داده از وب بدون مرورگر - ساده، سریع و قدرتمند
+        </p>
+        <div className={styles.buttons}>
+          <a href="/about" className={styles.primaryButton}>
+            شروع کنید
+          </a>
+          <a href="https://github.com/browserless" className={styles.secondaryButton}>
+            مشاهده در GitHub
+          </a>
+        </div>
+      </div>
+      
+      <div className={styles.features}>
+        <div className={styles.feature}>
+          <h3>🎯 استخراج هوشمند</h3>
+          <p>استخراج داده از آمازون، eBay و هزاران وبسایت دیگر با API ساده</p>
+        </div>
+        <div className={styles.feature}>
+          <h3>⚡ اتوماسیون سریع</h3>
+          <p>یکپارچه‌سازی آسان با n8n، Zapier و سایر ابزارهای اتوماسیون</p>
+        </div>
+        <div className={styles.feature}>
+          <h3>🔧 بدون مرورگر</h3>
+          <p>بدون نیاز به راه‌اندازی و مدیریت مرورگر headless</p>
+        </div>
+      </div>
+    </div>
+  )
+}

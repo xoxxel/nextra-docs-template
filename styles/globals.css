@@ -1,0 +1,80 @@
+/* RTL Base Styles - Exclude Header */
+body {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Keep header LTR */
+.nextra-nav-container {
+  direction: ltr !important;
+}
+
+.nextra-nav-container * {
+  direction: ltr !important;
+}
+
+/* RTL for sidebar */
+.nextra-sidebar-container {
+  direction: rtl;
+  text-align: right;
+}
+
+/* RTL for main content */
+.nextra-content {
+  direction: rtl;
+  text-align: right;
+}
+
+/* RTL for TOC */
+.nextra-toc {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Swap sidebar and TOC positions - Sidebar on right, TOC on left */
+.nextra-sidebar-container {
+  order: 3 !important;
+  right: 0 !important;
+  left: auto !important;
+}
+
+.nextra-content {
+  order: 2 !important;
+}
+
+.nextra-toc {
+  order: 1 !important;
+  left: 0 !important;
+  right: auto !important;
+}
+
+/* Adjust layout container */
+@media (min-width: 768px) {
+  .nextra-body-full {
+    display: flex;
+    flex-direction: row;
+  }
+}
+
+/* Fix borders for swapped layout */
+aside.nextra-sidebar-container {
+  border-left: 1px solid var(--nextra-border-color, #e5e7eb);
+  border-right: none;
+}
+
+/* Remove TOC border */
+nav.nextra-toc {
+  border: none !important;
+}
+
+/* RTL padding and margin adjustments */
+.nextra-content article {
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+/* چرخش آیکون arrow به سمت چپ */
+svg path[d="M9 5l7 7-7 7"] {
+  transform: rotate(180deg);
+  transform-origin: center;
+}

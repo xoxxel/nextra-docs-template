@@ -1,15 +1,15 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "صفحه اصلی",
+  "another": "راهنمای شروع",
+  "advanced": "مستندات API",
   "about": {
-    "title": "About",
+    "title": "درباره BrowserLess",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "تماس با ما ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://browserless.io/contact",
     "newWindow": true
   }
 }
