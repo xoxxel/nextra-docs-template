@@ -78,3 +78,34 @@ svg path[d="M9 5l7 7-7 7"] {
   transform: rotate(180deg);
   transform-origin: center;
 }
+
+/* بهبود دکمه‌های Navigation در پایین صفحه برای RTL */
+.nx-mb-8.nx-flex.nx-items-center {
+  direction: rtl !important;
+  flex-direction: row !important;
+}
+
+/* دکمه Next (سمت راست در RTL) */
+.nx-mb-8 a[href]:first-child {
+  margin-left: auto !important;
+  margin-right: 0 !important;
+  text-align: right !important;
+}
+
+/* دکمه Previous (سمت چپ در RTL) */
+.nx-mb-8 a[href]:last-child {
+  margin-right: auto !important;
+  margin-left: 0 !important;
+  text-align: left !important;
+}
+
+/* بهبود استایل دکمه‌های Navigation - مینیمال */
+.nx-mb-8 a[href]:hover {
+  opacity: 0.7;
+  transition: opacity 0.2s ease;
+}
+
+/* Dark mode */
+.dark .nx-mb-8 a[href]:hover {
+  opacity: 0.7;
+}
