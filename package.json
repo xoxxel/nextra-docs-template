@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/shuding/nextra-docs-template#readme",
   "dependencies": {
+    "@lottiefiles/dotlottie-react": "^0.17.8",
+    "lottie-react": "^2.4.1",
     "next": "^14.2.33",
     "nextra": "^2.13.4",
     "nextra-theme-docs": "^2.13.4",

@@ -1,0 +1,795 @@
+═══════════════════════════════════════════════════════════
+           BRAND LOGOS SVG COLLECTION
+═══════════════════════════════════════════════════════════
+Generated: 12/6/2025, 5:10:55 PM
+Total Brands: 52
+Total SVG Logos: 264
+═══════════════════════════════════════════════════════════
+
+
+━━━ CONTENT ━━━
+
+Medium
+Domain: medium.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idIlQtGZ76/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idIlQtGZ76/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+
+━━━ CRYPTO ━━━
+
+Binance
+Domain: binance.com
+SVG Logos: 5
+  1. https://cdn.brandfetch.io/id-pjrLx_q/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/id-pjrLx_q/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  3. https://cdn.brandfetch.io/id-pjrLx_q/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  4. https://cdn.brandfetch.io/id-pjrLx_q/theme/dark/idKzmFfrAl.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  5. https://cdn.brandfetch.io/id-pjrLx_q/theme/dark/idtm0kR5Wk.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+Coinbase
+Domain: coinbase.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idwDWo4ONQ/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idwDWo4ONQ/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+
+━━━ DESIGN ━━━
+
+Figma
+Domain: figma.com
+SVG Logos: 5
+  1. https://cdn.brandfetch.io/idZHcZ_i7F/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idZHcZ_i7F/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idZHcZ_i7F/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/idZHcZ_i7F/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  5. https://cdn.brandfetch.io/idZHcZ_i7F/theme/dark/idBr_UC1yQ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+
+━━━ DEVELOPMENT ━━━
+
+GitHub
+Domain: github.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idZAyF9rlg/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  2. https://cdn.brandfetch.io/idZAyF9rlg/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+GitLab
+Domain: gitlab.com
+SVG Logos: 7
+  1. https://cdn.brandfetch.io/idw382nG0m/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idw382nG0m/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idw382nG0m/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/idw382nG0m/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  5. https://cdn.brandfetch.io/idw382nG0m/theme/dark/idswYrme6D.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  6. https://cdn.brandfetch.io/idw382nG0m/theme/light/idLGFiuDcX.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+  7. https://cdn.brandfetch.io/idw382nG0m/theme/dark/ide5z3l5Bc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+Stack Overflow
+Domain: stackoverflow.com
+SVG Logos: 3
+  1. https://cdn.brandfetch.io/ididrzcc2B/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/ididrzcc2B/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/ididrzcc2B/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+
+━━━ DOMAIN & HOSTING ━━━
+
+GoDaddy
+Domain: godaddy.com
+SVG Logos: 6
+  1. https://cdn.brandfetch.io/idKgLX8HGb/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idKgLX8HGb/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idKgLX8HGb/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/idKgLX8HGb/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  5. https://cdn.brandfetch.io/idKgLX8HGb/id30Py4bC_.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: N/A
+  6. https://cdn.brandfetch.io/idKgLX8HGb/idF_IT-8pv.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: N/A
+
+Namecheap
+Domain: namecheap.com
+SVG Logos: 1
+  1. https://cdn.brandfetch.io/idTVdakwPY/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+
+━━━ DROPSHIPPING ━━━
+
+AliExpress
+Domain: aliexpress.com
+SVG Logos: 0
+
+Alibaba
+Domain: alibaba.com
+SVG Logos: 3
+  1. https://cdn.brandfetch.io/id_eF5X4DY/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/id_eF5X4DY/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/id_eF5X4DY/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+
+━━━ E-COMMERCE ━━━
+
+Amazon
+Domain: amazon.com
+SVG Logos: 8
+  1. https://cdn.brandfetch.io/idawOgYOsG/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idawOgYOsG/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idawOgYOsG/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  4. https://cdn.brandfetch.io/idawOgYOsG/theme/light/idyca62747.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+  5. https://cdn.brandfetch.io/idawOgYOsG/theme/dark/idF66K5euw.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  6. https://cdn.brandfetch.io/idawOgYOsG/theme/dark/id7K3GD-24.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  7. https://cdn.brandfetch.io/idawOgYOsG/theme/dark/idmCvQ5olI.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  8. https://cdn.brandfetch.io/idawOgYOsG/theme/dark/idIMRxhrRA.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+eBay
+Domain: ebay.com
+SVG Logos: 1
+  1. https://cdn.brandfetch.io/idjTS-RPU1/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+Shopify
+Domain: shopify.com
+SVG Logos: 7
+  1. https://cdn.brandfetch.io/idAgPm7IvG/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idAgPm7IvG/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idAgPm7IvG/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/idAgPm7IvG/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  5. https://cdn.brandfetch.io/idAgPm7IvG/theme/dark/idgpHWuGlU.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  6. https://cdn.brandfetch.io/idAgPm7IvG/theme/light/idbT2nizHs.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+  7. https://cdn.brandfetch.io/idAgPm7IvG/theme/dark/id_UA-KZwS.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+Etsy
+Domain: etsy.com
+SVG Logos: 3
+  1. https://cdn.brandfetch.io/idzyTAzn6G/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idzyTAzn6G/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idzyTAzn6G/theme/dark/id5i7WILc1.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+WooCommerce
+Domain: woocommerce.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/id0HloHs0j/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/id0HloHs0j/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+Walmart
+Domain: walmart.com
+SVG Logos: 4
+  1. https://cdn.brandfetch.io/idoGsFQrHx/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idoGsFQrHx/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idoGsFQrHx/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  4. https://cdn.brandfetch.io/idoGsFQrHx/theme/dark/idBGALhUoT.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+Target
+Domain: target.com
+SVG Logos: 3
+  1. https://cdn.brandfetch.io/id0ZfAM4Dt/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  2. https://cdn.brandfetch.io/id0ZfAM4Dt/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  3. https://cdn.brandfetch.io/id0ZfAM4Dt/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+Wish
+Domain: wish.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idzPbE91be/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idzPbE91be/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+Shein
+Domain: shein.com
+SVG Logos: 1
+  1. https://cdn.brandfetch.io/id0A26Xdv8/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+
+━━━ EDUCATION ━━━
+
+Coursera
+Domain: coursera.org
+SVG Logos: 6
+  1. https://cdn.brandfetch.io/idTHfL51P-/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idTHfL51P-/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idTHfL51P-/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/idTHfL51P-/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  5. https://cdn.brandfetch.io/idTHfL51P-/idckPflp0z.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: N/A
+  6. https://cdn.brandfetch.io/idTHfL51P-/idJNKfTKhq.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: N/A
+
+Udemy
+Domain: udemy.com
+SVG Logos: 3
+  1. https://cdn.brandfetch.io/idTqV2BNgX/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idTqV2BNgX/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idTqV2BNgX/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+
+━━━ ENTERTAINMENT ━━━
+
+Netflix
+Domain: netflix.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/ideQwN5lBE/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/ideQwN5lBE/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+
+━━━ GAMING ━━━
+
+Steam
+Domain: steampowered.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idMpZmhn_O/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  2. https://cdn.brandfetch.io/idMpZmhn_O/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+PlayStation
+Domain: playstation.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idsn73YDWv/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  2. https://cdn.brandfetch.io/idsn73YDWv/id4KF3Ah4H.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: N/A
+
+Xbox
+Domain: xbox.com
+SVG Logos: 4
+  1. https://cdn.brandfetch.io/idGE1UVbiU/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idGE1UVbiU/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idGE1UVbiU/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/idGE1UVbiU/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+Epic Games
+Domain: epicgames.com
+SVG Logos: 1
+  1. https://cdn.brandfetch.io/idjxHPThVp/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+Roblox
+Domain: roblox.com
+SVG Logos: 3
+  1. https://cdn.brandfetch.io/id1oKmlNbs/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/id1oKmlNbs/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/id1oKmlNbs/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+
+━━━ MAPS ━━━
+
+Google Maps
+Domain: maps.google.com
+SVG Logos: 34
+  1. https://cdn.brandfetch.io/id6O2oGzv-/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  4. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idMX2_OMSc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  5. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idncaAgFGT.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  6. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id9yxSb4R3.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  7. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idKa2XnbFY.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  8. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idBP5ltu-a.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  9. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idNQ5aWWN-.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  10. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idhg2vnQYV.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  11. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ide81vGBGA.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  12. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idY7x55JLN.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  13. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idOA5j5-it.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  14. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idXdVMQg1G.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  15. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idxy2tVjQB.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  16. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idQel0b39_.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  17. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id7WOXk600.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  18. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idHLEwG3n6.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  19. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idkfvuesuQ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  20. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idlJx_D1re.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  21. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ida-Lmv9tu.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  22. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idMbJg9Po3.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  23. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idB_cKSZXo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  24. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idxtfw96uG.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  25. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idbLxpVXbE.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  26. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idLVSe-Z-M.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  27. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idyl3sj1bF.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  28. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idnFxE7Tlf.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  29. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ida5qSarkA.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  30. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idYJxNllBc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  31. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id8ARdStou.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  32. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idLcdYt7dS.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  33. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idVV9pLyfH.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  34. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idsS69YQPt.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+
+━━━ MESSAGING ━━━
+
+WhatsApp
+Domain: whatsapp.com
+SVG Logos: 12
+  1. https://cdn.brandfetch.io/id6Zq084G_/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/id6Zq084G_/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/id6Zq084G_/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/id6Zq084G_/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  5. https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idh6uPVUgE.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  6. https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idXAKIipC4.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  7. https://cdn.brandfetch.io/id6Zq084G_/theme/dark/id07h05Ur1.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  8. https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idXbuQZJAq.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  9. https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idf7RKUV4c.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  10. https://cdn.brandfetch.io/id6Zq084G_/theme/light/id79dhylmG.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+  11. https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idw5tPGo_I.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  12. https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idULKo6n9o.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+
+━━━ MUSIC ━━━
+
+Spotify
+Domain: spotify.com
+SVG Logos: 3
+  1. https://cdn.brandfetch.io/id20mQyGeY/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  2. https://cdn.brandfetch.io/id20mQyGeY/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  3. https://cdn.brandfetch.io/id20mQyGeY/theme/dark/idoxEoRrti.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+Apple Music
+Domain: music.apple.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idnrCPuv87/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idnrCPuv87/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+SoundCloud
+Domain: soundcloud.com
+SVG Logos: 4
+  1. https://cdn.brandfetch.io/id3ytDFop3/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/id3ytDFop3/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/id3ytDFop3/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/id3ytDFop3/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+Deezer
+Domain: deezer.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idEUKgCNtu/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idEUKgCNtu/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+
+━━━ PLATFORM ━━━
+
+Google Play
+Domain: play.google.com
+SVG Logos: 34
+  1. https://cdn.brandfetch.io/id6O2oGzv-/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  4. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idMX2_OMSc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  5. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idncaAgFGT.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  6. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id9yxSb4R3.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  7. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idKa2XnbFY.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  8. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idBP5ltu-a.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  9. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idNQ5aWWN-.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  10. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idhg2vnQYV.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  11. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ide81vGBGA.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  12. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idY7x55JLN.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  13. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idOA5j5-it.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  14. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idXdVMQg1G.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  15. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idxy2tVjQB.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  16. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idQel0b39_.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  17. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id7WOXk600.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  18. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idHLEwG3n6.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  19. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idkfvuesuQ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  20. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idlJx_D1re.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  21. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ida-Lmv9tu.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  22. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idMbJg9Po3.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  23. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idB_cKSZXo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  24. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idxtfw96uG.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  25. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idbLxpVXbE.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  26. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idLVSe-Z-M.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  27. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idyl3sj1bF.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  28. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idnFxE7Tlf.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  29. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ida5qSarkA.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  30. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idYJxNllBc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  31. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id8ARdStou.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  32. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idLcdYt7dS.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  33. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idVV9pLyfH.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  34. https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idsS69YQPt.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+App Store
+Domain: apps.apple.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idnrCPuv87/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idnrCPuv87/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+Microsoft Store
+Domain: microsoft.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idchmboHEZ/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  2. https://cdn.brandfetch.io/idchmboHEZ/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+
+━━━ SOCIAL MEDIA ━━━
+
+Facebook
+Domain: facebook.com
+SVG Logos: 0
+
+Instagram
+Domain: instagram.com
+SVG Logos: 6
+  1. https://cdn.brandfetch.io/ido5G85nya/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/ido5G85nya/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/ido5G85nya/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/ido5G85nya/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  5. https://cdn.brandfetch.io/ido5G85nya/theme/light/idmP9VWUNi.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+  6. https://cdn.brandfetch.io/ido5G85nya/theme/light/id8qc6z_TX.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+
+Twitter (X)
+Domain: twitter.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idS5WhqBbM/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idS5WhqBbM/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+TikTok
+Domain: tiktok.com
+SVG Logos: 15
+  1. https://cdn.brandfetch.io/id-0D6OFrq/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/id-0D6OFrq/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  5. https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/id35WjIefX.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  6. https://cdn.brandfetch.io/id-0D6OFrq/theme/light/id7fJ17oUm.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+  7. https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/idGIofJnQn.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  8. https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/idFM7TR5EJ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  9. https://cdn.brandfetch.io/id-0D6OFrq/theme/light/id0W0E4G_0.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+  10. https://cdn.brandfetch.io/id-0D6OFrq/theme/light/idr3kq0m7q.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+  11. https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/idc6geU1eB.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  12. https://cdn.brandfetch.io/id-0D6OFrq/theme/light/idovt6D0qO.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+  13. https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/id5mMxJv6A.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  14. https://cdn.brandfetch.io/id-0D6OFrq/theme/light/idFsxlQuM6.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+  15. https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/id08BaRkIL.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+YouTube
+Domain: youtube.com
+SVG Logos: 6
+  1. https://cdn.brandfetch.io/idVfYwcuQz/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idVfYwcuQz/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  5. https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/idr9ec_Nkx.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  6. https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/idNobVnGbv.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+LinkedIn
+Domain: linkedin.com
+SVG Logos: 6
+  1. https://cdn.brandfetch.io/idJFz6sAsl/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  4. https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/idDyk4uLIo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  5. https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/idtEseDv1X.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  6. https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/id745SkyD0.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+Pinterest
+Domain: pinterest.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idGP0S1Jjj/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  2. https://cdn.brandfetch.io/idGP0S1Jjj/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+Reddit
+Domain: reddit.com
+SVG Logos: 12
+  1. https://cdn.brandfetch.io/idkKwm0IT0/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  4. https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/id_jo7Lzsf.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  5. https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/idUfaRExmC.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  6. https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/id1yfb7cFJ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  7. https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/idBsSk73Cl.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  8. https://cdn.brandfetch.io/idkKwm0IT0/theme/light/id_HzNQLiT.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+  9. https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/id5p3oS0lZ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  10. https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/id_RReJRA1.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  11. https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/idwOM8oa8K.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  12. https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/idQFZnENaV.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+Threads
+Domain: threads.net
+SVG Logos: 4
+  1. https://cdn.brandfetch.io/iddGJvyLem/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/iddGJvyLem/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/iddGJvyLem/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/iddGJvyLem/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+
+━━━ STREAMING ━━━
+
+Twitch
+Domain: twitch.tv
+SVG Logos: 5
+  1. https://cdn.brandfetch.io/idIwZCwD2f/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  2. https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  3. https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  4. https://cdn.brandfetch.io/idIwZCwD2f/idjrcBjI0N.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: N/A
+  5. https://cdn.brandfetch.io/idIwZCwD2f/idRzcbXxB_.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: N/A
+
+
+━━━ TRAVEL ━━━
+
+Airbnb
+Domain: airbnb.com
+SVG Logos: 4
+  1. https://cdn.brandfetch.io/idkuvXnjOH/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idkuvXnjOH/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idkuvXnjOH/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/idkuvXnjOH/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+
+Booking.com
+Domain: booking.com
+SVG Logos: 3
+  1. https://cdn.brandfetch.io/id9mEmLNcV/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/id9mEmLNcV/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/id9mEmLNcV/theme/light/idYmsgMKGv.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: light
+
+Expedia
+Domain: expedia.com
+SVG Logos: 2
+  1. https://cdn.brandfetch.io/idAGaivHFH/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idAGaivHFH/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+
+TripAdvisor
+Domain: tripadvisor.com
+SVG Logos: 6
+  1. https://cdn.brandfetch.io/idRUNqV3ke/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/idRUNqV3ke/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/idRUNqV3ke/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/idRUNqV3ke/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  5. https://cdn.brandfetch.io/idRUNqV3ke/theme/dark/idnmAFNwHc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+  6. https://cdn.brandfetch.io/idRUNqV3ke/theme/dark/idEyDiq_NB.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: dark
+
+Skyscanner
+Domain: skyscanner.com
+SVG Logos: 6
+  1. https://cdn.brandfetch.io/id_u1BLITl/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: light
+  2. https://cdn.brandfetch.io/id_u1BLITl/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: logo | Theme: dark
+  3. https://cdn.brandfetch.io/id_u1BLITl/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: light
+  4. https://cdn.brandfetch.io/id_u1BLITl/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: symbol | Theme: dark
+  5. https://cdn.brandfetch.io/id_u1BLITl/idPKwRQp1k.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: N/A
+  6. https://cdn.brandfetch.io/id_u1BLITl/iduJZ49Asx.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq
+     Type: other | Theme: N/A
+

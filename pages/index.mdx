@@ -1,4 +1,5 @@
 import styles from '../components/landing.module.css'
+import { DotLottieReact } from '@lottiefiles/dotlottie-react'
 
 export default function LandingPage() {
   return (
@@ -8,6 +9,24 @@ export default function LandingPage() {
         <p className={styles.subtitle}>
           استخراج و اتوماسیون داده از وب بدون مرورگر - ساده، سریع و قدرتمند
         </p>
+        
+        {/* انیمیشن Lottie - یک بار اجرا با سرعت کمتر */}
+        <div style={{ 
+          width: '100%',
+          margin: '2rem 0',
+          WebkitMaskImage: 'radial-gradient(ellipse, rgba(0,0,0,1) 30%, rgba(0,0,0,0.7) 60%, rgba(0,0,0,0) 100%)',
+          maskImage: 'radial-gradient(ellipse, rgba(0,0,0,1) 30%, rgba(0,0,0,0.7) 60%, rgba(0,0,0,0) 100%)',
+          opacity: 0.9
+        }}>
+          <DotLottieReact
+            src="/animations/animation.lottie"
+            loop={false}
+            autoplay={true}
+            speed={0.8}
+            style={{ width: '100%', height: 'auto' }}
+          />
+        </div>
+        
         <div className={styles.buttons}>
           <a href="/about" className={styles.primaryButton}>
             شروع کنید

@@ -1,0 +1,1811 @@
+{
+  "generatedAt": "2025-12-06T17:10:55.774Z",
+  "totalBrands": 52,
+  "totalLogos": 264,
+  "categorySummary": {
+    "Crypto": {
+      "count": 2,
+      "totalLogos": 7
+    },
+    "E-commerce": {
+      "count": 9,
+      "totalLogos": 31
+    },
+    "Dropshipping": {
+      "count": 2,
+      "totalLogos": 3
+    },
+    "Design": {
+      "count": 1,
+      "totalLogos": 5
+    },
+    "Content": {
+      "count": 1,
+      "totalLogos": 2
+    },
+    "Social Media": {
+      "count": 9,
+      "totalLogos": 53
+    },
+    "Messaging": {
+      "count": 1,
+      "totalLogos": 12
+    },
+    "Streaming": {
+      "count": 1,
+      "totalLogos": 5
+    },
+    "Gaming": {
+      "count": 5,
+      "totalLogos": 12
+    },
+    "Entertainment": {
+      "count": 1,
+      "totalLogos": 2
+    },
+    "Music": {
+      "count": 4,
+      "totalLogos": 11
+    },
+    "Platform": {
+      "count": 3,
+      "totalLogos": 38
+    },
+    "Domain & Hosting": {
+      "count": 2,
+      "totalLogos": 7
+    },
+    "Development": {
+      "count": 3,
+      "totalLogos": 12
+    },
+    "Maps": {
+      "count": 1,
+      "totalLogos": 34
+    },
+    "Education": {
+      "count": 2,
+      "totalLogos": 9
+    },
+    "Travel": {
+      "count": 5,
+      "totalLogos": 21
+    }
+  },
+  "brands": [
+    {
+      "brandName": "Binance",
+      "category": "Crypto",
+      "domain": "binance.com",
+      "svgCount": 5,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id-pjrLx_q/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-pjrLx_q/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-pjrLx_q/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-pjrLx_q/theme/dark/idKzmFfrAl.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-pjrLx_q/theme/dark/idtm0kR5Wk.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Coinbase",
+      "category": "Crypto",
+      "domain": "coinbase.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idwDWo4ONQ/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idwDWo4ONQ/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Amazon",
+      "category": "E-commerce",
+      "domain": "amazon.com",
+      "svgCount": 8,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idawOgYOsG/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idawOgYOsG/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idawOgYOsG/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idawOgYOsG/theme/light/idyca62747.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idawOgYOsG/theme/dark/idF66K5euw.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idawOgYOsG/theme/dark/id7K3GD-24.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idawOgYOsG/theme/dark/idmCvQ5olI.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idawOgYOsG/theme/dark/idIMRxhrRA.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "eBay",
+      "category": "E-commerce",
+      "domain": "ebay.com",
+      "svgCount": 1,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idjTS-RPU1/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Shopify",
+      "category": "E-commerce",
+      "domain": "shopify.com",
+      "svgCount": 7,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idAgPm7IvG/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idAgPm7IvG/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idAgPm7IvG/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idAgPm7IvG/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idAgPm7IvG/theme/dark/idgpHWuGlU.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idAgPm7IvG/theme/light/idbT2nizHs.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idAgPm7IvG/theme/dark/id_UA-KZwS.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "AliExpress",
+      "category": "Dropshipping",
+      "domain": "aliexpress.com",
+      "svgCount": 0,
+      "logos": []
+    },
+    {
+      "brandName": "Alibaba",
+      "category": "Dropshipping",
+      "domain": "alibaba.com",
+      "svgCount": 3,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id_eF5X4DY/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id_eF5X4DY/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id_eF5X4DY/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Etsy",
+      "category": "E-commerce",
+      "domain": "etsy.com",
+      "svgCount": 3,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idzyTAzn6G/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idzyTAzn6G/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idzyTAzn6G/theme/dark/id5i7WILc1.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "WooCommerce",
+      "category": "E-commerce",
+      "domain": "woocommerce.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id0HloHs0j/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id0HloHs0j/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Walmart",
+      "category": "E-commerce",
+      "domain": "walmart.com",
+      "svgCount": 4,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idoGsFQrHx/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idoGsFQrHx/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idoGsFQrHx/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idoGsFQrHx/theme/dark/idBGALhUoT.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Target",
+      "category": "E-commerce",
+      "domain": "target.com",
+      "svgCount": 3,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id0ZfAM4Dt/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id0ZfAM4Dt/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id0ZfAM4Dt/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Wish",
+      "category": "E-commerce",
+      "domain": "wish.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idzPbE91be/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idzPbE91be/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Shein",
+      "category": "E-commerce",
+      "domain": "shein.com",
+      "svgCount": 1,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id0A26Xdv8/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Figma",
+      "category": "Design",
+      "domain": "figma.com",
+      "svgCount": 5,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idZHcZ_i7F/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idZHcZ_i7F/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idZHcZ_i7F/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idZHcZ_i7F/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idZHcZ_i7F/theme/dark/idBr_UC1yQ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Medium",
+      "category": "Content",
+      "domain": "medium.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idIlQtGZ76/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idIlQtGZ76/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Facebook",
+      "category": "Social Media",
+      "domain": "facebook.com",
+      "svgCount": 0,
+      "logos": []
+    },
+    {
+      "brandName": "Instagram",
+      "category": "Social Media",
+      "domain": "instagram.com",
+      "svgCount": 6,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/ido5G85nya/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/ido5G85nya/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/ido5G85nya/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/ido5G85nya/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/ido5G85nya/theme/light/idmP9VWUNi.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/ido5G85nya/theme/light/id8qc6z_TX.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        }
+      ]
+    },
+    {
+      "brandName": "Twitter (X)",
+      "category": "Social Media",
+      "domain": "twitter.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idS5WhqBbM/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idS5WhqBbM/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "TikTok",
+      "category": "Social Media",
+      "domain": "tiktok.com",
+      "svgCount": 15,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/id35WjIefX.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/light/id7fJ17oUm.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/idGIofJnQn.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/idFM7TR5EJ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/light/id0W0E4G_0.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/light/idr3kq0m7q.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/idc6geU1eB.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/light/idovt6D0qO.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/id5mMxJv6A.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/light/idFsxlQuM6.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id-0D6OFrq/theme/dark/id08BaRkIL.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "YouTube",
+      "category": "Social Media",
+      "domain": "youtube.com",
+      "svgCount": 6,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idVfYwcuQz/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idVfYwcuQz/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/idr9ec_Nkx.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idVfYwcuQz/theme/dark/idNobVnGbv.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "LinkedIn",
+      "category": "Social Media",
+      "domain": "linkedin.com",
+      "svgCount": 6,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idJFz6sAsl/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/idDyk4uLIo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/idtEseDv1X.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/id745SkyD0.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Pinterest",
+      "category": "Social Media",
+      "domain": "pinterest.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idGP0S1Jjj/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idGP0S1Jjj/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "WhatsApp",
+      "category": "Messaging",
+      "domain": "whatsapp.com",
+      "svgCount": 12,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idh6uPVUgE.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idXAKIipC4.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/dark/id07h05Ur1.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idXbuQZJAq.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idf7RKUV4c.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/light/id79dhylmG.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idw5tPGo_I.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6Zq084G_/theme/dark/idULKo6n9o.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Reddit",
+      "category": "Social Media",
+      "domain": "reddit.com",
+      "svgCount": 12,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/id_jo7Lzsf.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/idUfaRExmC.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/id1yfb7cFJ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/idBsSk73Cl.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/light/id_HzNQLiT.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/id5p3oS0lZ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/id_RReJRA1.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/idwOM8oa8K.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkKwm0IT0/theme/dark/idQFZnENaV.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Threads",
+      "category": "Social Media",
+      "domain": "threads.net",
+      "svgCount": 4,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/iddGJvyLem/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/iddGJvyLem/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/iddGJvyLem/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/iddGJvyLem/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Twitch",
+      "category": "Streaming",
+      "domain": "twitch.tv",
+      "svgCount": 5,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idIwZCwD2f/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idIwZCwD2f/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idIwZCwD2f/idjrcBjI0N.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "N/A"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idIwZCwD2f/idRzcbXxB_.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "N/A"
+        }
+      ]
+    },
+    {
+      "brandName": "Steam",
+      "category": "Gaming",
+      "domain": "steampowered.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idMpZmhn_O/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idMpZmhn_O/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "PlayStation",
+      "category": "Gaming",
+      "domain": "playstation.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idsn73YDWv/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idsn73YDWv/id4KF3Ah4H.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "N/A"
+        }
+      ]
+    },
+    {
+      "brandName": "Xbox",
+      "category": "Gaming",
+      "domain": "xbox.com",
+      "svgCount": 4,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idGE1UVbiU/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idGE1UVbiU/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idGE1UVbiU/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idGE1UVbiU/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Epic Games",
+      "category": "Gaming",
+      "domain": "epicgames.com",
+      "svgCount": 1,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idjxHPThVp/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Roblox",
+      "category": "Gaming",
+      "domain": "roblox.com",
+      "svgCount": 3,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id1oKmlNbs/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id1oKmlNbs/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id1oKmlNbs/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Netflix",
+      "category": "Entertainment",
+      "domain": "netflix.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/ideQwN5lBE/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/ideQwN5lBE/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Spotify",
+      "category": "Music",
+      "domain": "spotify.com",
+      "svgCount": 3,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id20mQyGeY/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id20mQyGeY/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id20mQyGeY/theme/dark/idoxEoRrti.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Apple Music",
+      "category": "Music",
+      "domain": "music.apple.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idnrCPuv87/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idnrCPuv87/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "SoundCloud",
+      "category": "Music",
+      "domain": "soundcloud.com",
+      "svgCount": 4,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id3ytDFop3/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id3ytDFop3/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id3ytDFop3/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id3ytDFop3/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Deezer",
+      "category": "Music",
+      "domain": "deezer.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idEUKgCNtu/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idEUKgCNtu/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Google Play",
+      "category": "Platform",
+      "domain": "play.google.com",
+      "svgCount": 34,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idMX2_OMSc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idncaAgFGT.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id9yxSb4R3.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idKa2XnbFY.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idBP5ltu-a.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idNQ5aWWN-.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idhg2vnQYV.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ide81vGBGA.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idY7x55JLN.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idOA5j5-it.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idXdVMQg1G.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idxy2tVjQB.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idQel0b39_.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id7WOXk600.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idHLEwG3n6.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idkfvuesuQ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idlJx_D1re.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ida-Lmv9tu.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idMbJg9Po3.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idB_cKSZXo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idxtfw96uG.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idbLxpVXbE.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idLVSe-Z-M.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idyl3sj1bF.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idnFxE7Tlf.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ida5qSarkA.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idYJxNllBc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id8ARdStou.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idLcdYt7dS.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idVV9pLyfH.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idsS69YQPt.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "App Store",
+      "category": "Platform",
+      "domain": "apps.apple.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idnrCPuv87/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idnrCPuv87/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Microsoft Store",
+      "category": "Platform",
+      "domain": "microsoft.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idchmboHEZ/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idchmboHEZ/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "GoDaddy",
+      "category": "Domain & Hosting",
+      "domain": "godaddy.com",
+      "svgCount": 6,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idKgLX8HGb/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idKgLX8HGb/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idKgLX8HGb/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idKgLX8HGb/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idKgLX8HGb/id30Py4bC_.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "N/A"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idKgLX8HGb/idF_IT-8pv.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "N/A"
+        }
+      ]
+    },
+    {
+      "brandName": "Namecheap",
+      "category": "Domain & Hosting",
+      "domain": "namecheap.com",
+      "svgCount": 1,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idTVdakwPY/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "GitHub",
+      "category": "Development",
+      "domain": "github.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idZAyF9rlg/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idZAyF9rlg/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "GitLab",
+      "category": "Development",
+      "domain": "gitlab.com",
+      "svgCount": 7,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idw382nG0m/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idw382nG0m/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idw382nG0m/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idw382nG0m/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idw382nG0m/theme/dark/idswYrme6D.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idw382nG0m/theme/light/idLGFiuDcX.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idw382nG0m/theme/dark/ide5z3l5Bc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Stack Overflow",
+      "category": "Development",
+      "domain": "stackoverflow.com",
+      "svgCount": 3,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/ididrzcc2B/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/ididrzcc2B/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/ididrzcc2B/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Google Maps",
+      "category": "Maps",
+      "domain": "maps.google.com",
+      "svgCount": 34,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idMX2_OMSc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idncaAgFGT.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id9yxSb4R3.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idKa2XnbFY.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idBP5ltu-a.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idNQ5aWWN-.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idhg2vnQYV.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ide81vGBGA.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idY7x55JLN.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idOA5j5-it.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idXdVMQg1G.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idxy2tVjQB.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idQel0b39_.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id7WOXk600.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idHLEwG3n6.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idkfvuesuQ.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idlJx_D1re.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ida-Lmv9tu.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idMbJg9Po3.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idB_cKSZXo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idxtfw96uG.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idbLxpVXbE.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idLVSe-Z-M.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idyl3sj1bF.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idnFxE7Tlf.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/ida5qSarkA.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idYJxNllBc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/id8ARdStou.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idLcdYt7dS.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idVV9pLyfH.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/idsS69YQPt.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Coursera",
+      "category": "Education",
+      "domain": "coursera.org",
+      "svgCount": 6,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idTHfL51P-/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idTHfL51P-/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idTHfL51P-/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idTHfL51P-/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idTHfL51P-/idckPflp0z.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "N/A"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idTHfL51P-/idJNKfTKhq.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "N/A"
+        }
+      ]
+    },
+    {
+      "brandName": "Udemy",
+      "category": "Education",
+      "domain": "udemy.com",
+      "svgCount": 3,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idTqV2BNgX/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idTqV2BNgX/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idTqV2BNgX/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Airbnb",
+      "category": "Travel",
+      "domain": "airbnb.com",
+      "svgCount": 4,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idkuvXnjOH/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkuvXnjOH/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkuvXnjOH/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idkuvXnjOH/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Booking.com",
+      "category": "Travel",
+      "domain": "booking.com",
+      "svgCount": 3,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id9mEmLNcV/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id9mEmLNcV/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id9mEmLNcV/theme/light/idYmsgMKGv.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "light"
+        }
+      ]
+    },
+    {
+      "brandName": "Expedia",
+      "category": "Travel",
+      "domain": "expedia.com",
+      "svgCount": 2,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idAGaivHFH/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idAGaivHFH/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "TripAdvisor",
+      "category": "Travel",
+      "domain": "tripadvisor.com",
+      "svgCount": 6,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/idRUNqV3ke/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idRUNqV3ke/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idRUNqV3ke/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idRUNqV3ke/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idRUNqV3ke/theme/dark/idnmAFNwHc.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/idRUNqV3ke/theme/dark/idEyDiq_NB.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "dark"
+        }
+      ]
+    },
+    {
+      "brandName": "Skyscanner",
+      "category": "Travel",
+      "domain": "skyscanner.com",
+      "svgCount": 6,
+      "logos": [
+        {
+          "url": "https://cdn.brandfetch.io/id_u1BLITl/theme/light/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id_u1BLITl/theme/dark/logo.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "logo",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id_u1BLITl/theme/light/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "light"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id_u1BLITl/theme/dark/symbol.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "symbol",
+          "theme": "dark"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id_u1BLITl/idPKwRQp1k.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "N/A"
+        },
+        {
+          "url": "https://cdn.brandfetch.io/id_u1BLITl/iduJZ49Asx.svg?c=1bxkq9old9o7oz29w1ka7rnq8v9e0M3s3cq",
+          "type": "other",
+          "theme": "N/A"
+        }
+      ]
+    }
+  ]
+}
