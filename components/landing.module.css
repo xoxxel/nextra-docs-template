@@ -157,6 +157,7 @@
   .animationContainer {
     width: 180%;
     margin-left: -40%;
+    margin-right: -40%;
     overflow: hidden;
   }
 }
