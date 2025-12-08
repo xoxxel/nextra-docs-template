@@ -113,6 +113,15 @@
   font-size: 0.95rem;
 }
 
+.animationContainer {
+  width: 100%;
+  margin: 2rem 0;
+  -webkit-mask-image: radial-gradient(ellipse, rgba(0,0,0,1) 30%, rgba(0,0,0,0.7) 60%, rgba(0,0,0,0) 100%);
+  mask-image: radial-gradient(ellipse, rgba(0,0,0,1) 30%, rgba(0,0,0,0.7) 60%, rgba(0,0,0,0) 100%);
+  opacity: 0.9;
+  overflow: hidden;
+}
+
 @media (max-width: 768px) {
   .title {
     font-size: 2.5rem;
@@ -131,5 +140,11 @@
   .secondaryButton {
     width: 100%;
     max-width: 300px;
+  }
+  
+  .animationContainer {
+    width: 180%;
+    margin-left: -40%;
+    overflow: hidden;
   }
 }
