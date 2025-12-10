@@ -1,4 +1,5 @@
 import { Html, Head, Main, NextScript } from 'next/document'
+import Script from 'next/script'
 
 export default function Document() {
   return (
@@ -19,10 +20,13 @@ export default function Document() {
         <link rel="icon" type="image/x-icon" href="/assets/logo.ico" />
         <link rel="icon" type="image/svg+xml" href="/assets/icon-site.svg" />
         <link rel="apple-touch-icon" href="/assets/icon-site.svg" />
+        <link rel="stylesheet" href="/landing/style.css" />
       </Head>
       <body>
         <Main />
         <NextScript />
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+        <script src="/landing/script.js"></script>
       </body>
     </Html>
   )

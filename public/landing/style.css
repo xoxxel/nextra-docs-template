@@ -1,0 +1,971 @@
+/* ============================================
+   Global Styles & Reset
+   ============================================ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    min-height: 100vh;
+    background: #0a0a0a;
+    font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    overflow-x: hidden;
+    color: #fff;
+}
+
+/* ============================================
+   Header - Glassmorphism Style
+   ============================================ */
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background: rgba(10, 10, 10, 0.7);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.header__container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    transition: opacity 0.3s ease;
+}
+
+.header__logo:hover {
+    opacity: 0.8;
+}
+
+.header__logo svg {
+    color: #bd34fe;
+}
+
+.header__nav {
+    display: none;
+    align-items: center;
+    gap: 32px;
+}
+
+@media (min-width: 768px) {
+    .header__nav {
+        display: flex;
+    }
+}
+
+.header__link {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+    position: relative;
+}
+
+.header__link:hover {
+    color: #fff;
+}
+
+.header__link::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(90deg, #bd34fe, #47caff);
+    transition: width 0.3s ease;
+}
+
+.header__link:hover::after {
+    width: 100%;
+}
+
+.header__cta {
+    padding: 8px 20px;
+    background: linear-gradient(135deg, #bd34fe 0%, #47caff 100%);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 600;
+    transition: transform 0.2s ease, box-shadow 0.3s ease;
+}
+
+.header__cta:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(189, 52, 254, 0.4);
+}
+
+/* Mobile Menu Toggle */
+.header__mobile-toggle {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    z-index: 1001;
+}
+
+@media (min-width: 768px) {
+    .header__mobile-toggle {
+        display: none;
+    }
+}
+
+.header__mobile-toggle span {
+    width: 24px;
+    height: 2px;
+    background: #fff;
+    border-radius: 2px;
+    transition: all 0.3s ease;
+}
+
+.header__mobile-toggle:hover span {
+    background: #bd34fe;
+}
+
+/* Mobile Menu */
+.header__mobile-menu {
+    display: none;
+    flex-direction: column;
+    gap: 16px;
+    padding: 24px;
+    background: rgba(10, 10, 10, 0.95);
+    backdrop-filter: blur(12px);
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.header__mobile-menu.active {
+    display: flex;
+}
+
+@media (min-width: 768px) {
+    .header__mobile-menu {
+        display: none !important;
+    }
+}
+
+.header__mobile-link {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 8px 0;
+    transition: color 0.3s ease;
+}
+
+.header__mobile-link:hover {
+    color: #fff;
+}
+
+.header__mobile-cta {
+    padding: 12px 24px;
+    background: linear-gradient(135deg, #bd34fe 0%, #47caff 100%);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 8px;
+}
+
+/* ============================================
+   Hero Section
+   ============================================ */
+
+.hero {
+    position: relative;
+    z-index: 5;
+    margin-bottom: 0;
+    background-color: transparent;
+    padding-top: 80px;
+}
+
+@media (min-width: 768px) {
+    .hero {
+        margin-bottom: 60px;
+        padding-top: 100px;
+    }
+}
+
+/* ============================================
+   Container & Layout
+   ============================================ */
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 902px;
+    margin: 40px auto 0;
+    align-items: center;
+    position: relative;
+    z-index: 10;
+    padding: 0 20px;
+}
+
+@media (min-width: 768px) {
+    .container {
+        margin: 60px auto 0;
+    }
+}
+
+/* ============================================
+   Pill Badge
+   ============================================ */
+
+.hero__pill {
+    color: #fff;
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.3px;
+    display: inline-flex;
+    padding: 6px 16px;
+    align-items: center;
+    gap: 8px;
+    border-radius: 100px;
+    border: 1px solid rgba(189, 52, 254, 0.5);
+    background: radial-gradient(
+        1686.42% 113.39% at 83.25% 2.56%,
+        rgba(189, 52, 254, 0.1) 0%,
+        rgba(189, 52, 254, 0) 100%
+    );
+    margin-bottom: 40px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+@media (min-width: 768px) {
+    .hero__pill {
+        margin-bottom: 25px;
+    }
+}
+
+.hero__pill:hover {
+    border-color: rgba(189, 52, 254, 0.8);
+    background: radial-gradient(
+        1686.42% 113.39% at 83.25% 2.56%,
+        rgba(189, 52, 254, 0.15) 0%,
+        rgba(189, 52, 254, 0) 100%
+    );
+}
+
+/* ============================================
+   Typography
+   ============================================ */
+
+.hero__title {
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -1px;
+    text-align: center;
+    margin-bottom: 16px;
+    background: linear-gradient(180deg, #fff 0%, rgba(255, 255, 255, 0.85) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+@media (min-width: 768px) {
+    .hero__title {
+        font-size: 64px;
+        margin-bottom: 24px;
+    }
+}
+
+.hero__tagline {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.6;
+    letter-spacing: -0.3px;
+    text-align: center;
+    max-width: 600px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 32px;
+}
+
+@media (min-width: 768px) {
+    .hero__tagline {
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+}
+
+/* ============================================
+   Buttons
+   ============================================ */
+
+.hero__actions {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 60px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media (min-width: 768px) {
+    .hero__actions {
+        margin-bottom: 100px;
+    }
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+}
+
+.btn--primary {
+    background: linear-gradient(135deg, #bd34fe 0%, #8f1ff2 100%);
+    color: #fff;
+}
+
+.btn--primary:hover {
+    background: linear-gradient(135deg, #c844ff 0%, #a02dff 100%);
+    transform: translateY(-2px);
+}
+
+.btn--outline {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: #fff;
+    background: transparent;
+}
+
+.btn--outline:hover {
+    border-color: rgba(255, 255, 255, 0.4);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.btn svg {
+    width: 20px;
+    height: 20px;
+}
+
+/* ============================================
+   Hero Diagram
+   ============================================ */
+
+.hero__diagram {
+    pointer-events: none;
+    position: relative;
+    width: 1630px;
+    overflow: hidden;
+    margin: -100px auto 0;
+    height: 700px;
+    z-index: 3;
+}
+
+@media (max-width: 1630px) {
+    .hero__diagram {
+        left: 50%;
+        transform: translate3d(-50%, 0, 0);
+    }
+}
+
+@media (max-width: 768px) {
+    .hero__diagram {
+        left: 50%;
+        transform: translate3d(-50%, 0, 0) scale(0.9);
+    }
+}
+
+/* ============================================
+   SVG Lines
+   ============================================ */
+
+.input-lines {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    transform: translate3d(0, 0, 0);
+    opacity: 0.8;
+}
+
+.input-lines .circle-dot {
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .input-lines .circle-dot {
+        display: block;
+    }
+}
+
+.output-line {
+    position: absolute;
+    top: 300px;
+    left: 785px;
+    transform: translate3d(0, 0, 0);
+    z-index: 2;
+    opacity: 0.8;
+}
+
+/* ============================================
+   Labels
+   ============================================ */
+
+.label {
+    opacity: 0;
+    transition: opacity 0.4s ease-in-out;
+    display: none;
+    will-change: opacity;
+}
+
+@media (min-width: 1180px) {
+    .label {
+        display: block;
+    }
+}
+
+.label--visible {
+    opacity: 1;
+}
+
+/* ============================================
+   SVG Path
+   ============================================ */
+
+.svg-path {
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+}
+
+.circle-dot {
+    filter: drop-shadow(0 0 8px var(--dot-color, #9fe6fd));
+}
+
+
+
+/* ============================================
+   Vite Chip
+   ============================================ */
+
+.vite-chip {
+    width: 134px;
+    height: 134px;
+    position: absolute;
+    left: 50%;
+    top: 47%;
+    transform: translate(-50%, -50%) scale(0.85);
+    border-radius: 10px;
+    overflow: hidden;
+    transition: all 0.6s ease-out;
+    z-index: 4;
+    pointer-events: none;
+    margin: 0;
+}
+
+.vite-chip__background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.vite-chip__filter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transform: translate3d(0, 0, 0) scale(1);
+    transition: transform 0.3s ease-in-out;
+    background:
+        linear-gradient(130deg, rgba(61, 61, 61, 0.3) 0%, rgba(61, 61, 61, 0) 40%),
+        linear-gradient(130deg, rgba(42, 33, 63, 0) 60%, rgba(61, 61, 61, 0.3) 100%),
+        linear-gradient(to bottom, rgba(16, 14, 26, 0.3) 60%, rgba(12, 12, 12, 0));
+    border-radius: 10px;
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .vite-chip__filter {
+        display: block;
+    }
+}
+
+.vite-chip__filter::after {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 5;
+    background: linear-gradient(130deg, rgba(61, 61, 61, 0) 45%, rgba(154, 152, 222, 0.3) 50%, rgba(61, 61, 61, 0) 60%);
+    background-size: 500%;
+    background-position-x: 100%;
+    filter: blur(8px);
+    border-radius: 100px;
+    mix-blend-mode: color-dodge;
+    display: none;
+}
+
+.vite-chip__filter::before {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 5;
+    background: linear-gradient(-130deg, rgba(42, 33, 63, 0) 40%, rgba(154, 152, 222, 0.2) 50%, rgba(42, 33, 63, 0) 60%);
+    background-size: 400%;
+    background-position-x: 100%;
+    filter: blur(10px);
+    border-radius: 100px;
+    mix-blend-mode: color-dodge;
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .vite-chip__filter::before,
+    .vite-chip__filter::after {
+        display: block;
+    }
+}
+
+.vite-chip__edge {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 2px solid;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(
+        to bottom right,
+        rgba(0, 0, 0, 0) 60%,
+        rgba(255, 255, 255, 0.15) 65%,
+        rgba(0, 0, 0, 0) 90%
+    );
+    opacity: 0;
+    will-change: opacity, border;
+    transition: all 1s ease-in-out;
+    border-radius: 10px;
+}
+
+@media (min-width: 768px) {
+    .vite-chip__edge {
+        border-image-source: linear-gradient(
+            to bottom right,
+            rgba(0, 0, 0, 0) 50%,
+            rgba(255, 255, 255, 0.15) 60%,
+            rgba(0, 0, 0, 0) 90%
+        );
+    }
+}
+
+.vite-chip__border {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    border-radius: 10px;
+    border: 0 solid rgba(89, 82, 108, 0.3);
+    opacity: 0.8;
+    background: rgba(40, 40, 40, 0.3);
+}
+
+@media (min-width: 768px) {
+    .vite-chip__border {
+        top: 2px;
+        right: 2px;
+        left: 2px;
+        bottom: 2px;
+    }
+}
+
+.vite-chip__logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(0.9);
+    width: 65px;
+    opacity: 0.2;
+    filter: grayscale(100%);
+    transition: all 0.2s ease;
+    z-index: 3;
+    color: #fff;
+}
+
+.vite-chip.active {
+    box-shadow: 0 30px 35px -10px rgba(0, 0, 0, 0.6);
+    transform: translate(-50%, -50%) scale(1);
+}
+
+.vite-chip.active .vite-chip__edge {
+    opacity: 1;
+}
+
+@media (min-width: 768px) {
+    .vite-chip.active .vite-chip__edge {
+        animation: rotateGradient 8s linear infinite;
+    }
+}
+
+.vite-chip.active .vite-chip__filter {
+    transform: translate3d(0, 0, 0) scale(0.97);
+}
+
+.vite-chip.active .vite-chip__filter::before {
+    animation: shimmer 8s infinite linear;
+}
+
+.vite-chip.active .vite-chip__filter::after {
+    animation: shimmer 6s infinite linear;
+}
+
+.vite-chip.active .vite-chip__border {
+    border-width: 5px;
+    transition: all 1s ease;
+}
+
+.vite-chip.active .vite-chip__logo {
+    opacity: 1;
+    filter: grayscale(0);
+    transform: translate(-50%, -50%) scale(1);
+}
+
+/* ============================================
+   Animations
+   ============================================ */
+
+@keyframes shimmer {
+    to {
+        background-position-x: 0;
+    }
+}
+
+@keyframes rotateGradient {
+    0% {
+        border-image-source: linear-gradient(
+            to bottom right,
+            rgba(0, 0, 0, 0) 60%,
+            rgba(255, 255, 255, 0.15) 65%,
+            rgba(0, 0, 0, 0) 90%
+        );
+    }
+    25% {
+        border-image-source: linear-gradient(
+            to right top,
+            rgba(0, 0, 0, 0) 60%,
+            rgba(255, 255, 255, 0.15) 65%,
+            rgba(0, 0, 0, 0) 90%
+        );
+    }
+    50% {
+        border-image-source: linear-gradient(
+            to top left,
+            rgba(0, 0, 0, 0) 60%,
+            rgba(255, 255, 255, 0.15) 65%,
+            rgba(0, 0, 0, 0) 90%
+        );
+    }
+    75% {
+        border-image-source: linear-gradient(
+            to left bottom,
+            rgba(0, 0, 0, 0) 60%,
+            rgba(255, 255, 255, 0.15) 65%,
+            rgba(0, 0, 0, 0) 90%
+        );
+    }
+    100% {
+        border-image-source: linear-gradient(
+            to bottom right,
+            rgba(0, 0, 0, 0) 60%,
+            rgba(255, 255, 255, 0.15) 65%,
+            rgba(0, 0, 0, 0) 90%
+        );
+    }
+}
+
+/* ============================================
+   Background
+   ============================================ */
+
+.hero__background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100vh;
+    z-index: 1;
+    pointer-events: none;
+    opacity: 0.4;
+    transition: opacity 1s ease;
+    background: 
+        url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="4" result="noise" seed="1"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="30"/></filter><rect width="200" height="200" fill="rgba(0,0,0,0.02)" filter="url(%23n)"/></svg>'),
+        radial-gradient(
+            circle at right center,
+            rgb(86, 50, 119) 0%,
+            rgba(74, 55, 140, 1) 30%,
+            rgb(65, 114, 194) 55%,
+            rgba(50, 81, 115, 0.5) 100%
+        );
+    mask-image: radial-gradient(
+        ellipse 300% 30% at center center,
+        rgba(0, 0, 0, 1) 20%,
+        rgba(0, 0, 0, 0.5) 50%,
+        rgba(0, 0, 0, 0) 100%
+    );
+}
+
+@media (min-width: 768px) {
+    .hero__background {
+        opacity: 0.1;
+    }
+}
+
+@media (min-width: 1024px) {
+    .hero__background {
+        background: 
+            url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="4" result="noise" seed="1"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="30"/></filter><rect width="200" height="200" fill="rgba(0,0,0,0.02)" filter="url(%23n)"/></svg>'),
+            radial-gradient(
+                circle at right center,
+                rgba(75, 41, 105, 0.5) 0%,
+                rgb(86, 50, 119) 25%,
+                rgba(74, 55, 140, 1) 40%,
+                rgb(64, 102, 168) 65%,
+                rgba(50, 81, 115, 0.5) 100%
+            );
+        mask-image: radial-gradient(
+            ellipse 150% 30% at center center,
+            rgba(0, 0, 0, 1) 20%,
+            rgba(0, 0, 0, 0.5) 50%,
+            rgba(0, 0, 0, 0) 100%
+        );
+    }
+}
+
+@media (min-width: 1500px) {
+    .hero__background {
+        background: 
+            url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="4" result="noise" seed="1"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="30"/></filter><rect width="200" height="200" fill="rgba(0,0,0,0.02)" filter="url(%23n)"/></svg>'),
+            radial-gradient(
+                circle at right center,
+                rgba(75, 41, 105, 0.5) 0%,
+                rgb(86, 50, 119) 25%,
+                rgba(74, 55, 140, 1) 45%,
+                rgb(64, 102, 168) 65%,
+                rgba(50, 81, 115, 0.5) 100%
+            );
+        mask-image: radial-gradient(
+            ellipse 80% 40% at center center,
+            rgba(0, 0, 0, 1) 20%,
+            rgba(0, 0, 0, 0.5) 50%,
+            rgba(0, 0, 0, 0) 100%
+        );
+    }
+}
+
+@media (min-width: 1800px) {
+    .hero__background {
+        background: 
+            url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><filter id="n"><feTurbulence type="fractalNoise" baseFrequency="0.5" numOctaves="4" result="noise" seed="1"/><feDisplacementMap in="SourceGraphic" in2="noise" scale="30"/></filter><rect width="200" height="200" fill="rgba(0,0,0,0.02)" filter="url(%23n)"/></svg>'),
+            radial-gradient(
+                circle at right center,
+                rgba(75, 41, 105, 0.5) 0%,
+                rgb(86, 50, 119) 25%,
+                rgba(74, 55, 140, 1) 50%,
+                rgb(64, 102, 168) 70%,
+                rgba(50, 81, 115, 0.5) 100%
+            );
+        mask-image: radial-gradient(
+            ellipse 80% 40% at center center,
+            rgba(0, 0, 0, 1) 20%,
+            rgba(0, 0, 0, 0.5) 50%,
+            rgba(0, 0, 0, 0) 100%
+        );
+    }
+}
+
+.hero__background.active {
+    opacity: 0.7;
+}
+
+@media (max-width: 768px) {
+    .hero__background.active {
+        opacity: 0.4;
+    }
+}
+
+/* ============================================
+   Responsive Design
+   ============================================ */
+
+@media (max-width: 768px) {
+    .hero__title {
+        font-size: 36px;
+    }
+
+    .hero__tagline {
+        font-size: 14px;
+    }
+
+    .btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+
+    .hero__diagram {
+        height: 500px;
+    }
+
+    .vite-chip {
+        width: 100px;
+        height: 100px;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%) scale(0.85);
+    }
+
+    .blue-indicator,
+    .pink-indicator {
+        opacity: 0 !important;
+        visibility: hidden;
+        transform: scale(0.85);
+    }
+}
+
+/* ============================================
+   Footer - Minimal Style
+   ============================================ */
+
+.footer {
+    position: relative;
+    z-index: 20;
+    background: #0a0a0a;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 48px 24px 32px;
+    margin-top: 80px;
+}
+
+.footer__container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    align-items: center;
+}
+
+@media (min-width: 768px) {
+    .footer__container {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+
+.footer__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+@media (min-width: 768px) {
+    .footer__content {
+        align-items: flex-start;
+    }
+}
+
+.footer__logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.footer__logo svg {
+    color: #bd34fe;
+}
+
+.footer__copy {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 13px;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .footer__copy {
+        text-align: right;
+    }
+}
+
+.footer__links {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+@media (min-width: 768px) {
+    .footer__links {
+        justify-content: flex-end;
+    }
+}
+
+.footer__links a {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.footer__links a:hover {
+    color: #bd34fe;
+}

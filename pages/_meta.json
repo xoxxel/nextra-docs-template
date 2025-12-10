@@ -1,9 +1,14 @@
 {
-  "index": "صفحه اصلی",
-  "another": "راهنمای شروع",
-  "advanced": "مستندات API",
-  "about": {
-    "title": "درباره BrowserLess",
+  "index": {
+    "title": "صفحه اصلی",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "layout": "raw"
+    }
+  },
+  "docs": {
+    "title": "مستندات",
     "type": "page"
   },
   "contact": {
