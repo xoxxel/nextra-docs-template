@@ -17,12 +17,12 @@ export default function LandingPage() {
     // Initialize brands section after it's mounted
     const brands = [
       'airbnb', 'alibaba', 'amazon', 'apple', 'binance', 'booking', 'coinbase',
-      'coursera', 'deezer', 'ebay', 'epicgames', 'esty', 'expedia', 'figma',
-      'github', 'gitlab', 'godaddy', 'google_map', 'google_play', 'google_search',
-      'instagram', 'linkedin', 'medium', 'microsoft_store', 'namecheap', 'netflix',
-      'pinterest', 'playstation', 'reddit', 'roblox', 'shein', 'shopify',
+      'coursera', 'deezer', 'digikala', 'divar', 'ebay', 'epicgames', 'esty', 
+      'expedia', 'figma', 'github', 'gitlab', 'godaddy', 'google_map', 'google_play', 
+      'google_search', 'instagram', 'linkedin', 'medium', 'microsoft_store', 'namecheap', 
+      'netflix', 'pinterest', 'playstation', 'reddit', 'roblox', 'shein', 'shopify',
       'skyscanner', 'soundcloud', 'spotify', 'stackoverflow', 'steamwallet',
-      'target', 'threads', 'tiktok', 'tripadvisor', 'twitch', 'twitter',
+      'target', 'threads', 'tiktok', 'torob', 'tripadvisor', 'twitch', 'twitter',
       'udemy', 'walmart', 'whatsapp', 'wish', 'woocommerce', 'xbox', 'youtube'
     ];
 
@@ -74,8 +74,12 @@ export default function LandingPage() {
   return (
     <>
       <Head>
-        <title>BrowserLess - استخراج داده از وب بدون مرورگر</title>
+        <title>BrowserLess - استخراج داده از وب بدون مرورگر | Amazon, eBay, دیجیکالا و بیشتر</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="استخراج داده از آمازون، دیجیکالا، دیوار، ترب، eBay و 50+ وب‌سایت دیگر. Web scraping حرفه‌ای بدون مرورگر headless. API قدرتمند برای اتوماسیون داده" />
+        <meta name="keywords" content="استخراج از دیجیکالا, استخراج از دیوار, استخراج از ترب, استخراج از آمازون, web scraping amazon, ebay scraping, digikala api, divar scraping, torob price extraction, استخراج قیمت محصولات, اتوماسیون دیجیکالا, crawl instagram, youtube data extraction, github scraping, spotify api, netflix scraping, airbnb data, booking scraper, google maps data, stackoverflow crawler" />
+        <meta property="og:title" content="BrowserLess - استخراج داده از Amazon, eBay, دیجیکالا و 50+ سایت دیگر" />
+        <meta property="og:description" content="پلتفرم حرفه‌ای استخراج داده از فروشگاه‌های آنلاین، شبکه‌های اجتماعی و وب‌سایت‌های محبوب. بدون headless browser، سریع و قابل اعتماد" />
       </Head>
 
       {/* Header */}
@@ -194,7 +198,7 @@ export default function LandingPage() {
       {/* Brands Section */}
       {mounted && (
         <section className="brands-section">
-          <h2 className="brands-title">وب‌سایت‌هایی که پشتیبانی می‌کنیم</h2>
+          <h2 className="brands-title">استخراج داده از دیجیکالا، آمازون، دیوار و 50+ وب‌سایت محبوب</h2>
           <div className="brands-container">
             <div className="brands-row" id="brands-row-1"></div>
             <div className="brands-row" id="brands-row-2"></div>
