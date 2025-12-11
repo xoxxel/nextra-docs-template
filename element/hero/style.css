@@ -30,6 +30,7 @@ body {
     z-index: 2;
     margin-bottom: 0;
     background-color: #0a0a0a;
+    overflow: hidden;
 }
 
 @media (min-width: 768px) {
@@ -228,8 +229,7 @@ body {
 
 @media (max-width: 768px) {
     .hero__diagram {
-        left: 50%;
-        transform: translate3d(-50%, 0, 0) scale(0.9);
+        display: none;
     }
 }
 
@@ -244,6 +244,12 @@ body {
     z-index: 1;
     transform: translate3d(0, 0, 0);
     opacity: 0.8;
+}
+
+@media (max-width: 768px) {
+    .input-lines {
+        opacity: 0.6;
+    }
 }
 
 .input-lines .circle-dot {
@@ -677,18 +683,6 @@ body {
     .btn {
         padding: 10px 20px;
         font-size: 14px;
-    }
-
-    .hero__diagram {
-        height: 500px;
-    }
-
-    .vite-chip {
-        width: 100px;
-        height: 100px;
-        left: 50%;
-        top: 50%;
-        transform: translate(-50%, -50%) scale(0.85);
     }
 
     .blue-indicator,
