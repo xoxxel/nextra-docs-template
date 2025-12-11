@@ -722,3 +722,73 @@ window.addEventListener('beforeunload', () => {
 });
 
 console.log('✅ Hero Section Animation Loaded');
+
+// ============================================
+// Brands Section
+// ============================================
+
+const brands = [
+    'airbnb', 'alibaba', 'amazon', 'apple', 'binance', 'booking', 'coinbase',
+    'coursera', 'deezer', 'ebay', 'epicgames', 'esty', 'expedia', 'figma',
+    'github', 'gitlab', 'godaddy', 'google_map', 'google_play', 'google_search',
+    'instagram', 'linkedin', 'medium', 'microsoft_store', 'namecheap', 'netflix',
+    'pinterest', 'playstation', 'reddit', 'roblox', 'shein', 'shopify',
+    'skyscanner', 'soundcloud', 'spotify', 'stackoverflow', 'steamwallet',
+    'target', 'threads', 'tiktok', 'tripadvisor', 'twitch', 'twitter',
+    'udemy', 'walmart', 'whatsapp', 'wish', 'woocommerce', 'xbox', 'youtube'
+];
+
+function initBrandsSection() {
+    const row1 = document.getElementById('brands-row-1');
+    const row2 = document.getElementById('brands-row-2');
+    const row3 = document.getElementById('brands-row-3');
+
+    if (!row1 || !row2 || !row3) return;
+
+    // Shuffle brands
+    const shuffledBrands = [...brands].sort(() => Math.random() - 0.5);
+
+    // Split into 3 rows
+    const brandsPerRow = Math.ceil(shuffledBrands.length / 3);
+    const row1Brands = shuffledBrands.slice(0, brandsPerRow);
+    const row2Brands = shuffledBrands.slice(brandsPerRow, brandsPerRow * 2);
+    const row3Brands = shuffledBrands.slice(brandsPerRow * 2);
+
+    // Create brand cards
+    function createBrandCard(brandName) {
+        const card = document.createElement('div');
+        card.className = 'brand-card';
+        
+        const img = document.createElement('img');
+        img.src = `/brand/${brandName}.svg`;
+        img.alt = brandName;
+        img.loading = 'lazy';
+        
+        card.appendChild(img);
+        return card;
+    }
+
+    // Populate rows (duplicate for infinite scroll)
+    function populateRow(row, brands) {
+        // Add brands twice for seamless loop
+        brands.forEach(brand => {
+            row.appendChild(createBrandCard(brand));
+        });
+        brands.forEach(brand => {
+            row.appendChild(createBrandCard(brand));
+        });
+    }
+
+    populateRow(row1, row1Brands);
+    populateRow(row2, row2Brands);
+    populateRow(row3, row3Brands);
+}
+
+// Initialize brands when DOM is loaded
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initBrandsSection);
+} else {
+    initBrandsSection();
+}
+
+console.log('✅ Brands Section Loaded');
