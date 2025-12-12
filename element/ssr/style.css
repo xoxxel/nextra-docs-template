@@ -38,6 +38,7 @@ body {
     width: 100%;
     display: flex;
     justify-content: center;
+    direction: ltr;
 }
 
 .feature__visualization svg {
@@ -140,6 +141,8 @@ body {
     left: 24px;
     right: 24px;
     max-width: 100%;
+    text-align: right;
+    direction: rtl;
 }
 
 .meta__title {
