@@ -1005,6 +1005,59 @@ body {
     }
 }
 
+/* ============================================
+   CI Section with iframe
+   ============================================ */
+
+.ci-section {
+    width: 100%;
+    max-width: 1920px;
+    margin: 100px auto;
+    padding: 0 20px;
+    position: relative;
+    z-index: 10;
+}
+
+@media (min-width: 768px) {
+    .ci-section {
+        margin: 120px auto;
+    }
+}
+
+.ci-section-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ci-iframe {
+    width: 100%;
+    height: 600px;
+    border: none;
+    background: transparent;
+    overflow: hidden;
+}
+
+@media (max-width: 768px) {
+    .ci-iframe {
+        height: 550px;
+    }
+}
+
+@media (max-width: 500px) {
+    .ci-iframe {
+        height: 500px;
+    }
+}
+
+/* ============================================
+   Brands Section (continued)
+   ============================================ */
+
+
 .brands-title {
     background: linear-gradient(0deg, #fff 0%, rgba(255, 255, 255, 0.76) 100%);
     background-clip: text;

@@ -207,6 +207,20 @@ export default function LandingPage() {
         </section>
       )}
 
+      {/* CI Section */}
+      {mounted && (
+        <section className="ci-section">
+          <div className="ci-section-container">
+            <iframe 
+              src="/element/ci/index.html"
+              className="ci-iframe"
+              title="Continuous Integration Feature"
+              loading="lazy"
+            />
+          </div>
+        </section>
+      )}
+
       {/* Footer */}
       <footer className="footer">
         <div className="footer__container">
