@@ -158,10 +158,17 @@ class CICardAnimation {
     constructor() {
         this.card = document.querySelector('#continuous-integration');
         this.visualization = document.querySelector('.feature__visualization');
+        this.movableContainer = document.querySelector('.movable-container');
         this.checkmarks = Array.from(document.querySelectorAll('.checkmark'));
         this.glowNodes = [];
         this.isAnimating = false;
         this.hasAnimated = false;
+        
+        this.isDragging = false;
+        this.startX = 0;
+        this.startY = 0;
+        this.currentX = 0;
+        this.currentY = 0;
         
         this.init();
     }
@@ -178,6 +185,16 @@ class CICardAnimation {
         // ثبت رویدادها
         this.card.addEventListener('mouseenter', () => this.startAnimation());
         this.card.addEventListener('click', () => this.startAnimation());
+        
+        // رویدادهای drag برای movable-container
+        this.movableContainer.addEventListener('mousedown', (e) => this.startDrag(e));
+        this.movableContainer.addEventListener('touchstart', (e) => this.startDrag(e), { passive: false });
+        
+        document.addEventListener('mousemove', (e) => this.drag(e));
+        document.addEventListener('touchmove', (e) => this.drag(e), { passive: false });
+        
+        document.addEventListener('mouseup', () => this.endDrag());
+        document.addEventListener('touchend', () => this.endDrag());
         
         // انیمیشن خودکار در موبایل
         if (window.innerWidth < 768) {
@@ -197,6 +214,31 @@ class CICardAnimation {
         });
         
         observer.observe(this.card);
+    }
+    
+    startDrag(e) {
+        this.isDragging = true;
+        const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+        const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+        this.startX = clientX - this.currentX;
+        this.startY = clientY - this.currentY;
+        this.movableContainer.style.transition = 'none';
+        e.preventDefault();
+    }
+    
+    drag(e) {
+        if (!this.isDragging) return;
+        const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+        const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+        this.currentX = clientX - this.startX;
+        this.currentY = clientY - this.startY;
+        this.movableContainer.style.transform = `translate(${this.currentX}px, ${this.currentY}px)`;
+        e.preventDefault();
+    }
+    
+    endDrag() {
+        this.isDragging = false;
+        this.movableContainer.style.transition = 'transform 0.1s ease';
     }
     
     startAnimation() {
